@@ -1,5 +1,7 @@
 # Nozzle-Wiper-FLSUN-V400
-A compact nozzle cleaning module, positioned outside the printable area. Ensures effective filament residue removal while maintaining full build volume, with easy removal and cleaning.
+The nozzle cleaning module is designed to be compact and mounted outside the printable area. It effectively removes filament residue while maintaining the full build volume, and is easy to remove and clean.
+If you are working on the FLSUN V400 combined with Boxturtle by glennkaufman
+,I believe this design will be a useful addition.
 
 # I use the silicone brush from the Bambu Lab A1
 ![S70d7733df0c3458fa00cab6be903e6d63](https://github.com/user-attachments/assets/5553a32e-ab44-49d1-b9df-2b99512bc3e6)
