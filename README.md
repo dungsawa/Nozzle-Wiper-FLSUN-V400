@@ -3,9 +3,6 @@ A compact nozzle cleaning module, positioned outside the printable area. Ensures
 
 # I use the silicone brush from the Bambu Lab A1
 
-[servo B_S]
-pin: PD13  
-maximum_servo_angle: 180
-minimum_pulse_width: 0.0005
-maximum_pulse_width: 0.0025
-initial_angle: 180 
+# If you experience the servo jittering during operation, try switching to another 5V PWM signal pin.
+
+# Since this is the first version, there are still some flaws, but overall it works well. If you have any suggestions, please share them with me.
