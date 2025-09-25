@@ -7,3 +7,6 @@ A compact nozzle cleaning module, positioned outside the printable area. Ensures
 # If you experience the servo jittering during operation, try switching to another 5V PWM signal pin.
 
 # Since this is the first version, there are still some flaws, but overall it works well. If you have any suggestions, please share them with me.
+
+https://github.com/user-attachments/assets/cab717e3-aba5-488f-a006-8cfa6793ded9
+
