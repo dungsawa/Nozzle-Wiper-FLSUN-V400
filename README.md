@@ -17,6 +17,8 @@ If you are working on the FLSUN V400 combined with Boxturtle by glennkaufman
  - Try testing with the macro program first without enabling the servo. If the position is correct as desired, then test it again combined with the servo mechanism.
 
  - I think I will add a limit switch to this mechanism soon, as a precaution in case the servo does not rotate to the correct position.
+   
+ - Provide a separate 5V power supply for the 90s servo, do not connect it to the 5V supply on the mainboard
 
 # Since this is the first version, there are still some flaws, but overall it works well. If you have any suggestions, please share them with me.
 
